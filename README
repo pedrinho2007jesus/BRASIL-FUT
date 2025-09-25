@@ -1,0 +1,19 @@
+# Site Futebol Brasileiro
+
+Este é um site simples e responsivo sobre o futebol brasileiro, criado com HTML, CSS e JavaScript puro.
+
+## Como rodar
+
+1. Abra a pasta `site` no seu computador.
+2. Clique duas vezes no arquivo `index.html` para abrir no navegador.
+
+## Estrutura
+- `index.html`: Página principal do site
+- `style.css`: Estilos do site
+- `script.js`: Script para navegação suave
+
+## Conteúdo
+- História do futebol brasileiro
+- Principais clubes
+- Jogadores famosos
+- Títulos importantes
